@@ -1,4 +1,3 @@
-## Comments describing this function
 # The below function makeCacheMatrix creates a list containing a function to
 # 1. set the value of the matrix
 # 2. get the value of the matrix
@@ -18,7 +17,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Comments describing this function
 # The below function returns the inverse of the matrix by first checking if
 # the inverse has already been computed. In case its done it gets the result  
 # and does not compute the inverse again. If not, it computes the inverse 
